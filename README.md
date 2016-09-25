@@ -36,7 +36,7 @@ Use `vim` to edit you file
 vim smartmirror.py
 ```
 
-replace `weather_api_token` with the token you got from forecast.io
+replace the value of `weather_api_token` with the token you got from darksky.net
 
 ## Running
 To run the application run the following command in this folder
