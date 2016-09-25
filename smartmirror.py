@@ -10,7 +10,6 @@ import traceback
 import feedparser
 from PIL import Image, ImageTk
 
-ip = '<IP>'
 country_code = 'us'
 weather_api_token = '<TOKEN>'
 
